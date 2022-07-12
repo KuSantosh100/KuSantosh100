@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuSantosh100
 - 👀 I’m interested in Python, machine learning, Hacking, Data Analytics
 - 🌱 I’m currently learning Java , DSA, Ethical Hacking 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to learn more about Machine Learning and new techs surrounding Artificial Intelligence
 - 📫 How to reach me email- kumarsantos1m1@gmail.com
                       linkedIn - 
                       Twitter - @KumarSa58344078
