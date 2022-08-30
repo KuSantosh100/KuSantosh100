@@ -5,7 +5,7 @@
 - 📫 How to reach me email- kumarsantos1m1@gmail.com
                       linkedIn -- kumar-santosh-192491203  [its better to drop a msg in here]
                       
-                      Twitter - @KumarSa58344078  [its better to drop a msg in here]
+                      Twitter - @KumarSa58344078
 <!---
 KuSantosh100/KuSantosh100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
