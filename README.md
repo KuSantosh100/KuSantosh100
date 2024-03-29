@@ -12,7 +12,7 @@
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/_.santam._/) or [LinkedIn](https://www.linkedin.com/in/kumar-santosh-192491203/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/devusanty.ai/) or [LinkedIn](https://www.linkedin.com/in/kumar-santosh-192491203/). 
  
  For professional inquiries, reach out via email at [kumarsantos1m1@gmail.com](mailto:kumarsantos1m1@gmail.com). 
 
