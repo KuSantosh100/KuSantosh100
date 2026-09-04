@@ -1,18 +1,20 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
+
 - 👋 Hi, I’m @KuSantosh100
-- 👀 I’m interested in Python development || GenAI || GAN/RAG
-- 🌱 I’m currently into GenAI stuff && building AI based SaaS app 
-- 💞️ I’m looking to learn more about Full stack development and OpenSrc LLM
+- 👀 Currently polymathing the AI & Agents Engineering
+- 🌱 I’m currently building AI based SaaS app that is gonna be the NXT Big thing 
+- 💞️ I’m looking to learn more about Full stack && Agent development 
 
 
 ## ✨ Fun Facts 
 
 - Anime Nerd
-- As a kid, I wanted to be like Hanny Manny.
-- I love using Garuda linux still testing Fedora Linux.
+- As a kid, I wanted to be a AeroPilot.
+- I am sticking with Garuda Linux forever absolute loveeeeee
 
 ## 📫 Contact
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/devusanty.ai/) or [LinkedIn](https://www.linkedin.com/in/kumar-santosh-192491203/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/devusanty.ai/) or [LinkedIn](https://www.linkedin.com/in/kumar-santosh-engineer/). 
  
  For professional inquiries, reach out via email at [kumarsantos1m1@gmail.com](mailto:kumarsantos1m1@gmail.com). 
 
